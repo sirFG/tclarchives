@@ -1,0 +1,2 @@
+ciao	ciao ^NICK
+merda	^NICK, sei pregato di non dire parolacce
